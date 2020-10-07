@@ -1,5 +1,5 @@
 ### Hello guys! o/
-## My name is Rithie! Nice to meet ya!
+## I'm Rithie! Nice to meet ya!
 
 #### :snowman: ---Profile---
 - :book: Science Computer student at Pontifical Catholic University of Minas Gerais
