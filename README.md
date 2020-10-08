@@ -7,12 +7,17 @@
 - 🌱 I’m currently learning and researching 5G network
 
 #### 📫 ---Contacts---
+
 [![Instagram](https://img.shields.io/badge/Instagram-@rithienatan-FF8C00?logo=instagram&logoColor=white)](https://www.instagram.com/rithienatan/)
+
 [![Twitter](https://img.shields.io/badge/Twitter-@RithieNatan-blue?logo=twitter&logoColor=white)](https://twitter.com/RithieNatan)
+
 [![Twitch](https://img.shields.io/badge/Twitch-T4ichisan-A020F0?logo=twitch&logoColor=white)](https://www.twitch.tv/t4ichisan)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-@rithienatan-00BFFF?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithie-natan-470181b0/)
+
 [![Email](https://img.shields.io/badge/Email-rithienatan@gmail.com-FF0000?logo=gmail&logoColor=white)](rithienatan@gmail.com)
+![](gif_digimon.gif)
 
 > _Note: If you want to know how to put these cards like the ones below, check [anuraghazra repository](https://github.com/anuraghazra/github-readme-stats)!_
 
