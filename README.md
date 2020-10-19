@@ -6,7 +6,7 @@
 - 🔭 Co-Founder & CTO on Hired, Corp.
 - 🌱 I’m currently learning and researching 5G network
 
-#### 📫 ---Contacts---
+#### 📫 ---Where you can find me and contact---
 
 [![Instagram](https://img.shields.io/badge/Instagram-@rithienatan-FF8C00?logo=instagram&logoColor=white)](https://www.instagram.com/rithienatan/)
 [![Twitter](https://img.shields.io/badge/Twitter-@RithieNatan-blue?logo=twitter&logoColor=white)](https://twitter.com/RithieNatan)
