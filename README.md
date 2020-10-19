@@ -12,6 +12,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@RithieNatan-blue?logo=twitter&logoColor=white)](https://twitter.com/RithieNatan)
 [![Twitch](https://img.shields.io/badge/Twitch-T4ichisan-A020F0?logo=twitch&logoColor=white)](https://www.twitch.tv/t4ichisan)
 
+[![Medium](https://img.shields.io/badge/Medium-@rithienatan-DB9100?logo=medium&logoColor=white)](https://medium.com/@rithienatan)
 [![Linkedin](https://img.shields.io/badge/Linkedin-@rithienatan-00BFFF?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithie-natan-470181b0/)
 [![Email](https://img.shields.io/badge/Email-rithienatan@gmail.com-FF0000?logo=gmail&logoColor=white)](rithienatan@gmail.com)
 
