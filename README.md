@@ -4,7 +4,6 @@
 #### :snowman: ---Profile---
 - :book: Science Computer student at Pontifical Catholic University of Minas Gerais
 - 🔭 Co-Founder & CTO on Hired, Corp.
-- 🔭 Developer Full-stack at [IGTI](https://www.igti.com.br/) - Intern
 - 🌱 I’m currently learning and researching 5G network
 
 #### 📫 ---Where you can find me and contact---
