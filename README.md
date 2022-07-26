@@ -2,7 +2,7 @@
 ## I'm Rithie! Nice to meet ya!
 
 #### :snowman: ---Profile---
-- :book: Science Computer student at Pontifical Catholic University of Minas Gerais
+- :book: BsC in Computer Science
 - 🔭 Co-Founder & CTO on Hired, Corp.
 - 🌱 I’m currently learning and researching 5G network
 
