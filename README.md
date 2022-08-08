@@ -2,7 +2,7 @@
 ## I'm Rithie! Nice to meet ya!
 
 #### :snowman: ---Profile---
-- :book: BsC in Computer Science
+- :book: BSc in Computer Science
 - 🔭 Co-Founder & CTO on Hired, Corp.
 - 🌱 I’m currently learning and researching 5G network
 
@@ -13,7 +13,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-T4ichisan-A020F0?logo=twitch&logoColor=white)](https://www.twitch.tv/t4ichisan)
 
 [![Medium](https://img.shields.io/badge/Medium-@rithienatan-DB9100?logo=medium&logoColor=white)](https://medium.com/@rithienatan)
-[![Linkedin](https://img.shields.io/badge/Linkedin-@rithienatan-00BFFF?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithie-natan-470181b0/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-@rithienatan-00BFFF?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithienatan)
 [![Email](https://img.shields.io/badge/Email-rithienatan@gmail.com-FF0000?logo=gmail&logoColor=white)](rithienatan@gmail.com)
 
 ![](gif_digimon.gif)
