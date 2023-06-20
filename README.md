@@ -2,10 +2,11 @@
 ## I'm Rithie! Nice to meet ya!
 
 #### :snowman: ---Profile---
-- :book: BSc in Computer Science
-- 🔭 Co-Founder & CTO on Hired, Corp.
-- 🌱 I’m currently learning and researching 5G network
-
+- 📖 Postgraduating in Data Science & Big Data
+- 🎓 BSc in Computer Science
+- 🌱 I’m currently learning and researching mobile network
+- 🧭 Master's Degree on the way
+ 
 #### 📫 ---Where you can find me and contact---
 
 [![Instagram](https://img.shields.io/badge/Instagram-@rithienatan-FF8C00?logo=instagram&logoColor=white)](https://www.instagram.com/rithienatan/)
