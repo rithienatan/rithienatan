@@ -2,9 +2,9 @@
 ## I'm Rithie! Nice to meet ya!
 
 #### :snowman: ---Profile---
-- 🎓 BSc in Computer Science
-- 🎓 Postgraduate in Data Science & Big Data
-- ⏰ Master's Degree in Computer Science studies on pause
+- 🎓 BSc in Computer Science | PUC Minas, 2022
+- 🎓 Postgraduate in Data Science & Big Data | PUC Minas, 2023
+- ⏰ Master's Degree in Computer Science studies on pause | UFMG, 2024 - suspended in mid-2025
 - 🌱 I’m currently learning and researching 6G mobile network
 - 🎸 Havin fun playing guitar
 - ⚡ Fun fact: As a left-handed guy, my first guitar was for a right-handed, so I needed to invert all strings
