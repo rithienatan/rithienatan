@@ -20,8 +20,10 @@
 ![](gif_digimon.gif)
 > _Note: If you want to know how to put these cards like the ones below, check [anuraghazra repository](https://github.com/anuraghazra/github-readme-stats)!_
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithienatan&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rithienatan&show_icons=true&theme=tokyonight)
+<div style="display: inline_block">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rithienatan&show_icons=true&theme=tokyonight" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithienatan&layout=compact&langs_count=8&theme=tokyonight" />
+</div>
 
 <!--
 **rithienatan/rithienatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
