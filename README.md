@@ -2,20 +2,20 @@
 ## I'm Rithie! Nice to meet ya!
 
 #### :snowman: ---Profile---
-- 📖 Postgraduating in Data Science & Big Data
 - 🎓 BSc in Computer Science
-- 🌱 I’m currently learning and researching mobile network
-- 🧭 Master's Degree on the way
+- 🎓 Postgraduate in Data Science & Big Data
+- ⏰ Master's Degree in Computer Science studies on pause
+- 🌱 I’m currently learning and researching 6G mobile network
+- 🎸 Havin fun playing guitar
+- ⚡ Fun fact: As a left-handed guy, my first guitar was for a right-handed, so I needed to invert all strings
  
 #### 📫 ---Where you can find me and contact---
 
-[![Instagram](https://img.shields.io/badge/Instagram-@rithienatan-FF8C00?logo=instagram&logoColor=white)](https://www.instagram.com/rithienatan/)
-[![Twitter](https://img.shields.io/badge/Twitter-@RithieNatan-blue?logo=twitter&logoColor=white)](https://twitter.com/RithieNatan)
-[![Twitch](https://img.shields.io/badge/Twitch-T4ichisan-A020F0?logo=twitch&logoColor=white)](https://www.twitch.tv/t4ichisan)
-
-[![Medium](https://img.shields.io/badge/Medium-@rithienatan-DB9100?logo=medium&logoColor=white)](https://medium.com/@rithienatan)
 [![Linkedin](https://img.shields.io/badge/Linkedin-@rithienatan-00BFFF?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithienatan)
 [![Email](https://img.shields.io/badge/Email-rithienatan@gmail.com-FF0000?logo=gmail&logoColor=white)](rithienatan@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@rithienatan-FA7E1E?logo=instagram&logoColor=white)](https://www.instagram.com/rithienatan/)
+[![TikTok](https://img.shields.io/badge/Tiktok-@rithie.natan-0EB6F0?logo=tiktok&logoColor=white)](https://www.tiktok.com/@rithie.natan)
+[![Medium](https://img.shields.io/badge/Medium-@rithienatan-939799?logo=medium&logoColor=white)](https://medium.com/@rithienatan)
 
 ![](gif_digimon.gif)
 > _Note: If you want to know how to put these cards like the ones below, check [anuraghazra repository](https://github.com/anuraghazra/github-readme-stats)!_
