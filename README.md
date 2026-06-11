@@ -15,15 +15,15 @@
 [![Email](https://img.shields.io/badge/Email-rithienatan@gmail.com-FF0000?logo=gmail&logoColor=white)](rithienatan@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@rithienatan-FA7E1E?logo=instagram&logoColor=white)](https://www.instagram.com/rithienatan/)
 [![TikTok](https://img.shields.io/badge/Tiktok-@rithie.natan-0EB6F0?logo=tiktok&logoColor=white)](https://www.tiktok.com/@rithie.natan)
-[![Medium](https://img.shields.io/badge/Medium-@rithienatan-939799?logo=medium&logoColor=white)](https://medium.com/@rithienatan)
 
 ![](gif_digimon.gif)
-> _Note: If you want to know how to put these cards like the ones below, check [anuraghazra repository](https://github.com/anuraghazra/github-readme-stats)!_
 
 <div style="display: inline_block">
-    <img height="212em" src="https://github-readme-stats.vercel.app/api?username=rithienatan&show_icons=true&theme=tokyonight" />
-    <img height="212em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithienatan&layout=compact&langs_count=10&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rithienatan&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark#gh-dark-mode-only" />
+    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithienatan&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only" />
 </div>
+
+> _Note: If you want to know how to put these cards like the ones below, check [anuraghazra repository](https://github.com/anuraghazra/github-readme-stats)!_
 
 <!--
 **rithienatan/rithienatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
